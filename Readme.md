@@ -1,4 +1,4 @@
-![Model of Monitor](./Images/WallE.png)
+![Wall-E](./Images/WallE.png)
 <br>
 <h3 align=center>Wall-E</h2>
 <h4 align=center>My idea of automation done right</a>.</h3>
@@ -29,9 +29,18 @@ Battery testing only requires that I measure voltage under current stimulus. To 
 ### Approach
 
 ### Discharge
+<p align="center">
+<img src="Images/Discharge_Curve.png" width="600"/>
+</p>
+<p align="center">
+<img src="Images/SOC.png" width="600"/>
+</p>
+
 
 ### Charge
-
+<p align="center">
+<img src="Images/Charging_SOC.png" width="600"/>
+</p>
 
 ## Conclusions
 
